@@ -2,7 +2,7 @@
 
 > 一份nodejs的超级大礼包 [包(packages)](#包) and [资源(resources)](#资源)。
 
-被老外的 awesome [awesome](https://github.com/sindresorhus/awesome) 清单刺激到，觉得有必要翻译一份，为国产的程序员们做点事情，本清单将保持实时更新同步。PS:进都进来了，就顺便看看这个吧[awesome-npm-cn](https://github.com/Pines-Cheng/awesome-npm-cn)。
+被老外的[awesome](https://github.com/sindresorhus/awesome) 清单刺激到，觉得有必要翻译一份，为国产的程序员们做点事情，本清单将保持实时更新同步。PS:进都进来了，就顺便看看这个吧[awesome-npm-cn](https://github.com/Pines-Cheng/awesome-npm-cn)。
 
 如果想加入，那就加入吧。
 
