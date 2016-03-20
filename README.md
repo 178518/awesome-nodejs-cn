@@ -9,7 +9,7 @@
 ##目录
 
 - [包(Packages)](#包)
-	- [神奇的科学(mad science)](#神奇的科学mad science)
+	- [神奇的科学(mad science)](#神奇的科学mad-science)
 	- [Command-line apps](#command-line-apps)
 	- [Functional programming](#functional-programming)
 	- [HTTP](#http)
