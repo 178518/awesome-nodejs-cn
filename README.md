@@ -78,14 +78,13 @@
 ##包
 ###神奇的科学
 
-
-- [webtorrent](https://github.com/feross/webtorrent) - Streaming torrent client for Node.js and the browser.
-- [GitTorrent](https://github.com/cjb/GitTorrent) - Peer-to-peer network of Git repositories being shared over BitTorrent.
-- [peerflix](https://github.com/mafintosh/peerflix) - Streaming torrent client.
-- [dat](http://dat-data.com) - Real-time replication and versioning for data sets.
-- [ipfs](https://github.com/ipfs/js-ipfs) - Distributed file system that seeks to connect all computing devices with the same system of files.
-- [stackgl](http://stack.gl) - Open software ecosystem for WebGL, built on top of browserify and npm.
-- [peerwiki](https://github.com/mafintosh/peerwiki) - All of Wikipedia on BitTorrent.
+- [webtorrent](https://github.com/feross/webtorrent) - WebTorrent 是一个可工作在node.js和浏览器的流BT客户端。它完全采用JavaScript开发，在浏览器中WebTorrent使用WebRTC (data channels) 来进行p2p传输。它可以不使用浏览器插件，扩展或安装。只有JavaScript。
+- [GitTorrent](https://github.com/cjb/GitTorrent) - Git仓库的P2P网络，通过比特流分享。
+- [peerflix](https://github.com/mafintosh/peerflix) - 流客户端.
+- [dat](http://dat-data.com) - Dat 是开源的项目，进行实时复制，数据集版本控制，提供每个文件格式和数据存储后端的流。.
+- [ipfs](https://github.com/ipfs/js-ipfs) - IPFS 是分布式文件系统，寻求连接所有计算机设备的相同文件系统。在某些方面，这很类似于原始的 Web 目标，但是 IPFS 最终会更像单个比特流群交换的 git 对象。
+- [stackgl](http://stack.gl) - WebGL的开源软件生态系统，基于browserify和npm构建。
+- [peerwiki](https://github.com/mafintosh/peerwiki) - 比特流上的所有wiki
 - [peercast](https://github.com/mafintosh/peercast) - Stream a torrent video to Chromecast.
 - [BitcoinJS](http://bitcoinjs.org) - Clean, readable, proven Bitcoin library.
 - [Bitcore](https://bitcore.io/) - A pure and powerful Bitcoin library.
