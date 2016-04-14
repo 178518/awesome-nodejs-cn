@@ -85,41 +85,40 @@
 - [ipfs](https://github.com/ipfs/js-ipfs) - IPFS 是分布式文件系统，寻求连接所有计算机设备的相同文件系统。在某些方面，这很类似于原始的 Web 目标，但是 IPFS 最终会更像单个比特流群交换的 git 对象。
 - [stackgl](http://stack.gl) - WebGL的开源软件生态系统，基于browserify和npm构建。
 - [peerwiki](https://github.com/mafintosh/peerwiki) - 比特流上的所有wiki
-- [peercast](https://github.com/mafintosh/peercast) - Stream a torrent video to Chromecast.
-- [BitcoinJS](http://bitcoinjs.org) - Clean, readable, proven Bitcoin library.
-- [Bitcore](https://bitcore.io/) - A pure and powerful Bitcoin library.
-- [PDFKit](http://pdfkit.org) - PDF generation library.
-- [turf](https://github.com/Turfjs/turf) - Modular geospatial processing and analysis engine.
-- [webcat](https://github.com/mafintosh/webcat) - p2p pipe across the web using WebRTC that uses your GitHub private/public key for authentication.
-- [js-git](https://github.com/creationix/js-git) - JavaScript implementation of Git.
-- [NodeOS](http://node-os.com) - The first operating system powered by npm.
-- [limdu](https://github.com/erelsgl/limdu) - Machine-learning framework.
-- [Cytoscape.js](http://js.cytoscape.org) - Graph theory (a.k.a. network) modeling and analysis.
+- [peercast](https://github.com/mafintosh/peercast) - 推送视频流到Chromecast.
+- [BitcoinJS](http://bitcoinjs.org) - BitcoinJS 是一个纯 JavaScript 库，支持 Node.js和浏览器，用于操作各种比特币钱包。代码清晰，可读性强。
+- [Bitcore](https://bitcore.io/) - Bitcore 是一个完整原生的比特币网络的 JavaScript 开发库，提供比特币应用开发的核心功能。
+- [PDFKit](http://pdfkit.org) - PDF生成器库.
+- [turf](https://github.com/Turfjs/turf) - Turf 是一个 JavaScript 的模块化的 GIS 引擎，它执行地理空间与GeoJSON数据处理任务,可以在服务器或在浏览器上运行。
+- [webcat](https://github.com/mafintosh/webcat) - 使用您的GitHub的私有/公共密钥认证的p2p管道，可以通过WebRTC跨web使用。
+- [js-git](https://github.com/creationix/js-git) - Git的JavaScript实现。
+- [NodeOS](http://node-os.com) - 第一个通过npm实现的操作系统，使用Node.js编写。
+- [limdu](https://github.com/erelsgl/limdu) - 一个机器学习框架。
+- [Cytoscape.js](http://js.cytoscape.org) - Cytoscape.js 是个开源 JavaScript 图形库，用户可以用 Cytoscape.js 来分析和制作可视化图形。它兼容 CommonJS/Node.js, jQuery 1.4+ 和纯 JavaScript。
 
 
-### Command-line apps
-
-- [pageres](https://github.com/sindresorhus/pageres) - Capture website screenshots.
-- [trash](https://github.com/sindresorhus/trash) - A safer alternative to `rm`.
-- [npm-name](https://github.com/sindresorhus/npm-name) - Check whether a package name is available on npm.
-- [XO](https://github.com/sindresorhus/xo) - Enforce strict code style using the JavaScript happiness style.
-- [speed-test](https://github.com/sindresorhus/speed-test) - Test your internet connection speed and ping.
-- [np](https://github.com/sindresorhus/np) - A better `npm publish`.
-- [yo](https://github.com/yeoman/yo) - Run Yeoman generators.
-- [Babel](https://babeljs.io/docs/usage/cli/) - Use next generation JavaScript, today.
-- [ESLint](http://eslint.org) - The pluggable linting utility for JavaScript.
-- [JSCS](https://github.com/jscs-dev/node-jscs) - JavaScript Code Style checker.
-- [Standard](https://github.com/feross/standard) - JavaScript Standard Style — One style to rule them all.
-- [cpy](https://github.com/sindresorhus/cpy) - Copy files.
-- [fkill](https://github.com/sindresorhus/fkill-cli) - Fabulously kill processes. Cross-platform.
-- [vantage](https://github.com/dthree/vantage) - Distributed, realtime CLI for your live app.
-- [vtop](https://github.com/MrRio/vtop) - More better top, with nice charts.
-- [tmpin](https://github.com/sindresorhus/tmpin) - Adds stdin support to any CLI app that accepts file input.
-- [empty-trash](https://github.com/sindresorhus/empty-trash) - Empty the trash.
-- [is-up](https://github.com/sindresorhus/is-up) - Check whether a website is up or down.
-- [is-online](https://github.com/sindresorhus/is-online) - Check if the internet connection is up.
-- [public-ip](https://github.com/sindresorhus/public-ip) - Get your public IP address.
-- [dark-mode](https://github.com/sindresorhus/dark-mode) - Toggle the OS X Dark Mode.
+### 命令行应用
+- [pageres](https://github.com/sindresorhus/pageres) - 网站截图工具。
+- [trash](https://github.com/sindresorhus/trash) - trash 命令替代linux rm命令实现windows回收站的功能
+- [npm-name](https://github.com/sindresorhus/npm-name) - 检查报名在npm上是否可用。
+- [XO](https://github.com/sindresorhus/xo) - XO 是 JavaScript 幸福样式，强制执行严格代码风格，pull request 的时候不会再讨论代码风格。没有 .eslintrc，.jshintrc，.jscsrc 管理。
+- [speed-test](https://github.com/sindresorhus/speed-test) - 测试网络连接速度和ping。
+- [np](https://github.com/sindresorhus/np) - 比`npm publish`更好用。
+- [yo](https://github.com/yeoman/yo) - 运行Yeoman生成器。
+- [Babel](https://babeljs.io/docs/usage/cli/) - 从现在开始使用下一代JavaScript。
+- [ESLint](http://eslint.org) - ESLint 是一个开源的插件化得JavaScript验证工具，相比JSLint，ESLint具有可配置性。
+- [JSCS](https://github.com/jscs-dev/node-jscs) - JavaScript代码风格检查。
+- [Standard](https://github.com/feross/standard) - JavaScript标准风格，使用一种风格来限制所有。
+- [cpy](https://github.com/sindresorhus/cpy) - 复制文件。
+- [fkill](https://github.com/sindresorhus/fkill-cli) - 跨平台的，更好的杀死进程的方式。
+- [vantage](https://github.com/dthree/vantage) - Vangtage.js 是一个全新的 Node 交互式 CLI。Vangtage 灵感来源于 commander.js，通过 inquirer.js 的交互式 prompt 把在线 Node 应用转换到 CLI。可以本地或者远程访问，Vantage 可以让你构建自己的 API，导入社区扩展等等。
+- [vtop](https://github.com/MrRio/vtop) - 更好更漂亮的图表。
+- [tmpin](https://github.com/sindresorhus/tmpin) - 给所有能接受文件输入的CLI应用添加标准输入支持。
+- [empty-trash](https://github.com/sindresorhus/empty-trash) - 清空回收站。
+- [is-up](https://github.com/sindresorhus/is-up) - 检查web站点是涨还是跌。
+- [is-online](https://github.com/sindresorhus/is-online) - 检查网络连接是否增长。
+- [public-ip](https://github.com/sindresorhus/public-ip) - 获取你的公网IP。
+- [dark-mode](https://github.com/sindresorhus/dark-mode) - 触发OS X的夜间模式。
 - [ttystudio](https://github.com/chjj/ttystudio) - Record your terminal and compile it to a GIF or APNG without any external dependencies, bash scripts, gif concatenation, etc.
 - [David](https://github.com/alanshaw/david) - Tells you when your package npm dependencies are out of date.
 - [http-server](https://github.com/indexzero/http-server) - Simple, zero-config command-line HTTP server.
