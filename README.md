@@ -4,6 +4,7 @@
 
 被老外的[awesome](https://github.com/sindresorhus/awesome) 清单刺激到，觉得有必要翻译一份，为国产的程序员们做点事情，本清单将保持实时更新同步。PS:进都进来了，就顺便看看其他的吧:
 - [awesome-gulp-cn](https://github.com/Pines-Cheng/awesome-gulp-cn)
+- [awesome-angularjs-cn](https://github.com/Pines-Cheng/awesome-angularjs-cn)
 - [awesome-react-cn](https://github.com/Pines-Cheng/awesome-react-cn)
 - [awesome-react-native-cn](https://github.com/Pines-Cheng/awesome-react-native-cn)
 - [awesome-npm-cn](https://github.com/Pines-Cheng/awesome-npm-cn)
@@ -119,18 +120,18 @@
 - [is-online](https://github.com/sindresorhus/is-online) - 检查网络连接是否增长。
 - [public-ip](https://github.com/sindresorhus/public-ip) - 获取你的公网IP。
 - [dark-mode](https://github.com/sindresorhus/dark-mode) - 触发OS X的夜间模式。
-- [ttystudio](https://github.com/chjj/ttystudio) - Record your terminal and compile it to a GIF or APNG without any external dependencies, bash scripts, gif concatenation, etc.
-- [David](https://github.com/alanshaw/david) - Tells you when your package npm dependencies are out of date.
-- [http-server](https://github.com/indexzero/http-server) - Simple, zero-config command-line HTTP server.
-- [Live Server](https://github.com/tapio/live-server) - A simple development HTTP-server with livereload capability.
-- [bcat](https://github.com/kessler/node-bcat) - Pipe command output to web browsers.
-- [normit](https://github.com/pawurb/normit) - Google Translate with speech synthesis in your terminal.
-- [slap](https://github.com/slap-editor/slap) - Sublime-like terminal-based text editor.
-- [jsinspect](https://github.com/danielstjules/jsinspect) - Detect copy-pasted and structurally similar code.
-- [esformatter](https://github.com/millermedeiros/esformatter) - JavaScript code beautifier/formatter.
-- [pjs](https://github.com/danielstjules/pjs) - Pipeable JavaScript. Quickly filter, map, and reduce from the terminal.
-- [license-checker](https://github.com/davglass/license-checker) - Check licenses of your app's dependencies.
-- [browser-run](https://github.com/juliangruber/browser-run) - Easily run code in a browser environment.
+- [ttystudio](https://github.com/chjj/ttystudio) - 记录你的终端并且编译成GIF或者APNG动态图，无需任何依赖，bash脚本或者gif相关的东西。
+- [David](https://github.com/alanshaw/david) - 当你的npm依赖过时的时候通知你。
+- [http-server](https://github.com/indexzero/http-server) - 简单，零配置的命令行HTTP服务器。
+- [Live Server](https://github.com/tapio/live-server) - 一个自带热加载功能的http服务器。
+- [bcat](https://github.com/kessler/node-bcat) - 将命令行输出到web浏览器。
+- [normit](https://github.com/pawurb/normit) - 在终端运行的包含语音合成Google翻译。
+- [slap](https://github.com/slap-editor/slap) - 类似于Sublime的基于命令行的文本编辑器。
+- [jsinspect](https://github.com/danielstjules/jsinspect) - 发现复制粘贴的或者结构相似代码。
+- [esformatter](https://github.com/millermedeiros/esformatter) - JavaScript代码格式化。
+- [pjs](https://github.com/danielstjules/pjs) - 能作为管道使用的JavaScript，从终端快速过滤，映射等。
+- [license-checker](https://github.com/davglass/license-checker) - 检查应用的依赖的证书。
+- [browser-run](https://github.com/juliangruber/browser-run) - 轻松在浏览器环境中运行代码。
 - [modhelp](https://github.com/runvnc/modhelp) - Syntax-highlighted module READMEs in terminal with ANSI-friendly pager.
 - [wifi-password](https://github.com/kevva/wifi-password) - Get the current wifi password.
 - [wallpaper](https://github.com/sindresorhus/wallpaper) - Change the desktop wallpaper.
