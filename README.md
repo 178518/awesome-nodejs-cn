@@ -132,14 +132,14 @@
 - [pjs](https://github.com/danielstjules/pjs) - 能作为管道使用的JavaScript，从终端快速过滤，映射等。
 - [license-checker](https://github.com/davglass/license-checker) - 检查应用的依赖的证书。
 - [browser-run](https://github.com/juliangruber/browser-run) - 轻松在浏览器环境中运行代码。
-- [modhelp](https://github.com/runvnc/modhelp) - Syntax-highlighted module READMEs in terminal with ANSI-friendly pager.
-- [wifi-password](https://github.com/kevva/wifi-password) - Get the current wifi password.
-- [wallpaper](https://github.com/sindresorhus/wallpaper) - Change the desktop wallpaper.
-- [brightness](https://github.com/kevva/brightness-cli) - Change the screen brightness.
-- [torrent](https://github.com/maxogden/torrent) - Download torrents.
-- [tfa](https://github.com/jasnell/tfa) - Two-factor authentication client.
-- [rtail](https://github.com/kilianc/rtail) - Terminal output to the browser in seconds, using UNIX pipes.
-- [kill-tabs](https://github.com/sindresorhus/kill-tabs) - Kill all Chrome tabs to improve performance, decrease battery usage, and save memory.
+- [modhelp](https://github.com/runvnc/modhelp) -在终端动态高亮README模块。
+- [wifi-password](https://github.com/kevva/wifi-password) - 在终端通过命令行获取当前的wifi密码。.
+- [wallpaper](https://github.com/sindresorhus/wallpaper) -命令行改变桌面的背景。
+- [brightness](https://github.com/kevva/brightness-cli) - 命令行改变屏幕的亮度。
+- [torrent](https://github.com/maxogden/torrent) - 下载种子。
+- [tfa](https://github.com/jasnell/tfa) - Two-factor验证客户端。
+- [rtail](https://github.com/kilianc/rtail) - 使用Unix管道，在终端实时输出浏览器多个流。
+- [kill-tabs](https://github.com/sindresorhus/kill-tabs) - 通过关闭Chrome 窗口来提升性能，减少电池消耗，节约内存。
 - [alex](https://github.com/wooorm/alex) - Catch insensitive, inconsiderate writing.
 - [pen](https://github.com/noraesae/pen) - Live Markdown preview in the browser from your favorite editor.
 - [subdownloader](https://github.com/beatfreaker/subdownloader) - Subtitle downloader for movies and TV series.
