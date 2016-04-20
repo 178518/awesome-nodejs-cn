@@ -141,10 +141,10 @@
 - [rtail](https://github.com/kilianc/rtail) - 使用Unix管道，在终端实时输出浏览器多个流。
 - [kill-tabs](https://github.com/sindresorhus/kill-tabs) - 通过关闭Chrome 窗口来提升性能，减少电池消耗，节约内存。
 - [alex](https://github.com/wooorm/alex) - Catch insensitive, inconsiderate writing.
-- [pen](https://github.com/noraesae/pen) - Live Markdown preview in the browser from your favorite editor.
-- [subdownloader](https://github.com/beatfreaker/subdownloader) - Subtitle downloader for movies and TV series.
-- [iponmap](https://github.com/nogizhopaboroda/iponmap) - IP location finder.
-- [Jsome](https://github.com/Javascipt/Jsome) - Pretty prints JSON with configurable colors and indentation.
+- [pen](https://github.com/noraesae/pen) - 浏览器中的你最喜欢的编辑器Markdown实时预览。
+- [subdownloader](https://github.com/beatfreaker/subdownloader) - 电影和电视剧的字幕下载。
+- [iponmap](https://github.com/nogizhopaboroda/iponmap) - IP地址查找。
+- [Jsome](https://github.com/Javascipt/Jsome) - 根据配置的颜色和排版格式化打印JSON。
 - [itunes-remote](https://github.com/mischah/itunes-remote) - Interactively control iTunes.
 - [dev-time](https://github.com/samverschueren/dev-time-cli) - Get the current local time of a GitHub user.
 - [text-meme](https://github.com/beatfreaker/text-meme-cli) - Generate a text meme.
