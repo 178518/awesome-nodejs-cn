@@ -145,16 +145,16 @@
 - [subdownloader](https://github.com/beatfreaker/subdownloader) - 电影和电视剧的字幕下载。
 - [iponmap](https://github.com/nogizhopaboroda/iponmap) - IP地址查找。
 - [Jsome](https://github.com/Javascipt/Jsome) - 根据配置的颜色和排版格式化打印JSON。
-- [itunes-remote](https://github.com/mischah/itunes-remote) - Interactively control iTunes.
-- [dev-time](https://github.com/samverschueren/dev-time-cli) - Get the current local time of a GitHub user.
-- [text-meme](https://github.com/beatfreaker/text-meme-cli) - Generate a text meme.
-- [mobicon](https://github.com/samverschueren/mobicon-cli) - Mobile app icon generator.
-- [mobisplash](https://github.com/samverschueren/mobisplash-cli) - Mobile app splash screen generator.
-- [diff2html-cli](https://github.com/rtfpessoa/diff2html-cli) - Pretty git diff to HTML generator.
-- [Cash](https://github.com/dthree/cash) - Cross-platform Unix shell commands in pure JavaScript.
-- [vaca](https://github.com/sindresorhus/vaca) - Get a random ASCII 🐮.
-- [gh-home](https://github.com/sindresorhus/gh-home) - Open the GitHub page of the repo in the current directory.
-- [npm-home](https://github.com/sindresorhus/npm-home) - Open the npm page of a package.
+- [itunes-remote](https://github.com/mischah/itunes-remote) -iTunes交互控制.
+- [dev-time](https://github.com/samverschueren/dev-time-cli) - 获取一个用户当前的本地时间.
+- [text-meme](https://github.com/beatfreaker/text-meme-cli) - 生成一个text meme.
+- [mobicon](https://github.com/samverschueren/mobicon-cli) - 生成手机应用的icon.
+- [mobisplash](https://github.com/samverschueren/mobisplash-cli) - 生成手机应用的 splash 屏幕.
+- [diff2html-cli](https://github.com/rtfpessoa/diff2html-cli) - 好看的 git diff 的html生成器.
+- [Cash](https://github.com/dthree/cash) - 纯js实现的跨平台的Unix shell命令.
+- [vaca](https://github.com/sindresorhus/vaca) - 获取一个随机的ASCII 🐮.
+- [gh-home](https://github.com/sindresorhus/gh-home) - 在当前的directory打开一个GitHub仓库的页面.
+- [npm-home](https://github.com/sindresorhus/npm-home) - 打开一个npm包的home页面.
 
 
 ### Functional programming
