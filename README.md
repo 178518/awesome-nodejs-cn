@@ -157,18 +157,16 @@
 - [npm-home](https://github.com/sindresorhus/npm-home) - 打开一个npm包的home页面.
 
 
-### Functional programming
-
-- [lodash](https://lodash.com/) - A utility library delivering consistency, customization, performance, & extras. A better and faster Underscore.js.
-- [immutable](https://github.com/facebook/immutable-js) - Immutable data collections.
-- [mori](http://swannodette.github.io/mori/) - A library for using ClojureScript's persistent data structures and supporting API from the comfort of vanilla JavaScript.
-- [Ramda](http://ramdajs.com) - A utility library with a focus on flexible functional composition enabled by automatic currying and reversed argument order. Avoids mutating data.
-- [Folktale](http://folktalejs.org/) - A suite of libraries for generic functional programming in JavaScript that allows you to write elegant, modular applications with fewer bugs, and more reuse.
+### 函数式编程
+- [lodash](https://lodash.com/) - 一个工具库，相当于一个更好更快的 Underscore.js.
+- [immutable](https://github.com/facebook/immutable-js) - 数据持久化.
+- [mori](http://swannodette.github.io/mori/) - A library for using使用 ClojureScript的持久化数据结构，且支持 vanilla JavaScript API的库.
+- [Ramda](http://ramdajs.com) - 专注于灵活的函数式编程的工具库，能力来自于自动柯里化和函数参数优先于数据，提供了mutating data.
+- [Folktale](http://folktalejs.org/) - 一整套通用的JavaScript函数式编程方案，帮助你构建优雅的，组合式的健壮且高度复用的应用。
 - [underscore-contrib](http://documentcloud.github.io/underscore-contrib/) - The brass buckles on Underscore's utility belt.
-- [Mout](http://moutjs.com) - Utility library with the biggest difference between other existing solutions is that you can choose to load only the modules/functions that you need, no extra overhead.
-- [Bacon.js](http://baconjs.github.io) - Functional reactive programming.
-- [RxJS](http://reactivex.io) - Functional reactive library for transforming, composing, and querying various kinds of data.
-- [Lazy.js](https://github.com/dtao/lazy.js) - Utility library similar to lodash/Underscore but with lazy evaluation, which can translate to superior performance in many cases.
+- [Mout](http://moutjs.com) - 和其他工具库最大的不同是，你可以选择只下载你需要的模块或函数，没有额外的负担。
+- [RxJS](http://reactivex.io) - 函数式响应式编程库，专注于大量不同数据的转换，构建和查询。
+- [Lazy.js](https://github.com/dtao/lazy.js) - Lazy.js是类似Underscore或Lo-Dash的JavaScript工具库，但是它有一个非常独特的特性：惰性求值。很多情况下，惰性求值都将带来巨大的性能提升，特别是当处理巨大的数组和连锁使用多个方法的时候。
 
 
 ### HTTP
