@@ -11,7 +11,7 @@
 
 如果想加入，那就加入吧。
 
-##目录
+## 目录
 
 - [包(Packages)](#包)
 	- [神奇的科学(mad science)](#神奇的科学mad-science)
@@ -76,8 +76,8 @@
 	- [其他](#其他)
 	
 	
-##包
-###神奇的科学
+## 包
+### 神奇的科学
 
 - [webtorrent](https://github.com/feross/webtorrent) - WebTorrent 是一个可工作在node.js和浏览器的流BT客户端。它完全采用JavaScript开发，在浏览器中WebTorrent使用WebRTC (data channels) 来进行p2p传输。它可以不使用浏览器插件，扩展或安装。只有JavaScript。
 - [GitTorrent](https://github.com/cjb/GitTorrent) - Git仓库的P2P网络，通过比特流分享。
@@ -116,8 +116,8 @@
 - [vtop](https://github.com/MrRio/vtop) - 更好更漂亮的图表。
 - [tmpin](https://github.com/sindresorhus/tmpin) - 给所有能接受文件输入的CLI应用添加标准输入支持。
 - [empty-trash](https://github.com/sindresorhus/empty-trash) - 清空回收站。
-- [is-up](https://github.com/sindresorhus/is-up) - 检查web站点是涨还是跌。
-- [is-online](https://github.com/sindresorhus/is-online) - 检查网络连接是否增长。
+- [is-up](https://github.com/sindresorhus/is-up) - 检查Web站点是否在线。
+- [is-online](https://github.com/sindresorhus/is-online) - 检查是否联网。
 - [public-ip](https://github.com/sindresorhus/public-ip) - 获取你的公网IP。
 - [dark-mode](https://github.com/sindresorhus/dark-mode) - 触发OS X的夜间模式。
 - [ttystudio](https://github.com/chjj/ttystudio) - 记录你的终端并且编译成GIF或者APNG动态图，无需任何依赖，bash脚本或者gif相关的东西。
